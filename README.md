@@ -1,4 +1,4 @@
-# Final Project Code - Efficient Machine Learning
+Efficient Machine Learning - The Bird's Nest
 ## Tejaswini Ramkumar Babu
 This repository contains the code for the CS 4803/8803 Efficient ML Final Project, "The Bird’s Nest: Investigating Early-Bird Pruning on Transformers Using Various Pruning Techniques"
 
